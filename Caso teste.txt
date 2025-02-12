@@ -1,0 +1,222 @@
+10 12
+0
+1
+Pallet
+251
+0
+Lumiose
+72
+1
+Tapu village
+302
+1
+Lavender Town
+134
+0
+Verdanturf Town
+192
+0
+Vaniville Town
+16
+0
+Aether Paradise
+293
+0
+Opalucid City
+150
+1
+Suntouched City
+280
+1
+Celestic Town
+205
+1
+
+0 4 200
+0 3 20
+0 8 300
+0 9 400
+1 5 40
+2 6 30
+4 2 150
+4 7 220
+4 8 250
+7 1 175
+8 1 600
+8 9 320
+
+2
+
+3
+16
+3
+302
+
+4
+Lucario
+10
+0
+448
+72 91
+4
+Decidueye
+8
+5
+724
+65 36
+4
+Zapdos
+3
+17
+145
+120 52
+4
+Greninja
+1
+12
+658
+47 158
+4
+Blaziken
+6
+10
+257
+4 190
+4
+Mew
+14
+18
+151
+169 74
+4
+Eevee
+11
+18
+133
+22 77
+4
+MewTwo
+14
+18
+680
+75 39
+4
+Vulpix Alola
+7
+18
+299
+156 56
+4
+Psyduck
+1
+18
+320
+165 89
+4
+Scizor
+9
+0
+212
+82 61
+4
+Pinsir
+9
+18
+127
+45 73
+4
+Snorlax
+11
+18
+143
+103 55
+4
+Onix
+13
+7
+95
+17 44
+4
+Tyranitar
+13
+12
+248
+59 22
+4
+Dragonite
+2
+17
+149
+124 97
+4
+Salamence
+2
+17
+373
+85 43
+4
+Bulbasaur
+8
+16
+1
+53 92
+4
+Sceptile
+8
+18
+254
+39 61
+4
+Umbreon
+12
+18
+197
+109 30
+4
+Absol
+12
+18
+359
+42 68
+4
+Golem
+13
+7
+76
+102 118
+4
+Flygon
+15
+7
+330
+25 84
+4
+Gardevoir
+14
+5
+282
+121 37
+4
+Togekiss
+14
+17
+468
+58 112
+4
+Ninetales Alola
+7
+15
+505
+45 99
+4
+Solosis
+14
+18
+577
+190 26
+4
+Minun
+3
+18
+312
+115 150
